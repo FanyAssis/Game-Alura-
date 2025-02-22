@@ -2,7 +2,11 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+<<<<<<< HEAD
     color: rgb(31, 44, 78);
+=======
+    color: white;
+>>>>>>> 6b23070c682c5170ff9b7568580eba8aa7a1ead2
 }
 
 body {
@@ -15,7 +19,11 @@ body {
 
 
 body::before {
+<<<<<<< HEAD
     background-image: url("img/fundo.png");
+=======
+    background-image: url("img/code.png");
+>>>>>>> 6b23070c682c5170ff9b7568580eba8aa7a1ead2
     background-repeat: no-repeat;
     background-position: right;
     content: "";
@@ -35,7 +43,11 @@ body::before {
     border-radius: 24px;
     border: 1px solid #1875E8;
     box-shadow: 4px 4px 20px 0px rgba(1, 8, 14, 0.15);
+<<<<<<< HEAD
    /* background-image: url("img/Ruido.png");*/
+=======
+    background-image: url("img/Ruido.png");
+>>>>>>> 6b23070c682c5170ff9b7568580eba8aa7a1ead2
     background-size: 100% 100%;
     position: relative;
 }
@@ -49,21 +61,31 @@ body::before {
 }
 
 .container__informacoes {
+<<<<<<< HEAD
     flex-direction: center;
+=======
+>>>>>>> 6b23070c682c5170ff9b7568580eba8aa7a1ead2
     flex: 1;
     padding: 3rem;
 }
 
 .container__botao {
     border-radius: 16px;
+<<<<<<< HEAD
     background: rgb(31, 44, 78);
+=======
+    background: #1875E8;
+>>>>>>> 6b23070c682c5170ff9b7568580eba8aa7a1ead2
     padding: 16px 24px;
     width: 100%;
     font-size: 20px;
     font-weight: 700;
     border: none;
     margin-top: 2rem;
+<<<<<<< HEAD
     color:azure;
+=======
+>>>>>>> 6b23070c682c5170ff9b7568580eba8aa7a1ead2
 }
 
 .container__texto {
